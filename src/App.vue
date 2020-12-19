@@ -1,5 +1,6 @@
 <template>
 <h1>Lutfi Metussin</h1>
+<p>Im new Graduate</p>
 </template>
 
 <script>
